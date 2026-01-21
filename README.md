@@ -1,7 +1,9 @@
 <<<<<<< HEAD
+=======
 # Corteva_coding_assessment
 Files for Corteva weather data coding assessment
 =======
+>>>>>>> 962761a (Initial commit: Corteva Weather API project)
 # Weather Data API - Corteva Coding Exercise
 
 ## Overview
@@ -48,4 +50,6 @@ After some researching and with no AWS experience (only HPC), I believe AWS Elas
 For the database, I would use AWS Relational Database Service (RDS). This would probably require converting from SQLite to PostgreSQL. RDS has good database hosting, automatic backups, scaling, and works great with PostgreSQL. It also has a free option for small projects such as this one.
 
 And finally for running the scripts on a schedule, I think using AWS Lambda combined with Amazon EventBridge would be ideal. EventBridge lets me run on a schedule at specific intervals which is great for running as often as necessary. Then Lambda executes my scripts without the need to manage any servers. This allows a simpler set up and ability to scale up. However, with some more research I have found that using AWS Glue would be better for larger or more complex jobs. There are probably better alternatives for the API deployment service and database when working with longer scripts, larger databases, etc., but all of these should run great for this specific set of data, scripts, and API code.
->>>>>>> 2709fd2 (Initial commit: Corteva Weather API project)
+<<<<<<< HEAD
+=======
+
