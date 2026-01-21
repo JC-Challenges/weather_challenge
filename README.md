@@ -1,8 +1,6 @@
-=======
 # Corteva_coding_assessment
 Files for Corteva weather data coding assessment
 =======
->>>>>>> 962761a (Initial commit: Corteva Weather API project)
 # Weather Data API - Corteva Coding Exercise
 
 ## Overview
