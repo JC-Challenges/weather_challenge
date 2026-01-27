@@ -1,8 +1,0 @@
-2026-01-27 18:08:25,726 - INFO - Data successfully imported into weather, yearly, and yield SQLite tables.
-2026-01-27 18:08:25,726 - INFO - Elapsed processing time: 9.668538 seconds
-2026-01-27 18:08:25,764 - INFO - 
-Total records in the weather station table: 1729957
-2026-01-27 18:08:25,764 - INFO - 
-Total records in the yearly table: 4820
-2026-01-27 18:08:25,765 - INFO - 
-Total records in the crop yield table: 30

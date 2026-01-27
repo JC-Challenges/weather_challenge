@@ -1,2 +1,6 @@
-.ipynb_checkpoints/ .pytest_cache/ weather_ingestion.log wx_data/ yld_data/ __pycache__ 
+wx_data/ 
+yld_data/ 
 *.db 
+.ipynb_checkpoints/ 
+__pycache__/ 
+*.log 
