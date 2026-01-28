@@ -1,7 +1,7 @@
 # Weather Data API - Corteva Coding Exercise
 
 ## Overview
-This project ingests weather station data and crop yield data (and calculates weather data statistics) into a SQLite database and provides a REST API for accessing the data. The weather data and crop yield data are available at https://github.com/corteva/code-challenge-template. If downloading and running on local machine, make sure raw data files are in same working project directory as python scripts.
+This project ingests weather station data and crop yield data (and calculates weather data statistics) into a SQLite database and provides a REST API for accessing the data. The weather data and crop yield data are available at https://github.com/JC-Challenges/weather_challenge. If downloading and running on local machine, make sure raw data files are in same working project directory as python scripts.
 
 ## Setup
 

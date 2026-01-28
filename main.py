@@ -2,7 +2,6 @@
 
 """
 This script ingests weather and crop yield data, calculating averages and sums as needed, loads them into SQLite databases and then launches a REST API for viewing and filtering the data. See README and requirements files for further information.
-Author: Jake Campbell
 Created: 01-20-2026
 """
 
